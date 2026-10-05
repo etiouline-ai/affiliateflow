@@ -1,2 +1,4 @@
-# affiliateflow
-MVP de plateforme d'affiliation avec suivi de clics, commissions et liens trackés
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+python-multipart==0.0.9
